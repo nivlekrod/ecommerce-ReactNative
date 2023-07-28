@@ -5,7 +5,7 @@
  - Expo
  - Biblioteca react-native-light-weight
 
-## Como iniciar projeto
+## Como iniciar o projeto
 
 ### Comandos para instalar as dependências 
 ```bash
